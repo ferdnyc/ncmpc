@@ -152,9 +152,9 @@ static constexpr command_definition_t cmds[] = {
 
 	/* change screen */
 	{ "screen-next",
-	  N_("Next screen") },
+	  N_("Next in screen-list") },
 	{ "screen-prev",
-	  N_("Previous screen") },
+	  N_("Previous in screen-list") },
 	{ "screen-swap",
 	  N_("Swap to most recent screen") },
 
