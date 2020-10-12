@@ -116,10 +116,10 @@ key wrap-mode = 'w'
 ## Toggle auto center mode
 key autocenter-mode = 'U'
 
-## Next screen
+## Next in screen-list
 key screen-next = 9
 
-## Previous screen
+## Previous in screen-list
 key screen-prev = 353
 
 ## Forward find
